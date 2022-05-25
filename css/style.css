@@ -33,6 +33,7 @@ h1 {
 input {
   margin-bottom: 0.5rem;
   width: 255px;
+  padding: 5px;
 }
 
 button {
