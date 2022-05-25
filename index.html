@@ -9,8 +9,9 @@
   </head>
   <body>
     <main>
-      <div>
+      <div class="container">
         <h1>Churrascômetro</h1>
+        <p id="subtitle">Quantidade ideal para o seu churrasco</p>
 
         <input
           type="number"
@@ -34,7 +35,9 @@
           min="0"
         />
 
-        <button onclick="calculo()" type="submit">Calcular</button>
+        <button onclick="calcular()" type="submit">Calcular</button>
+
+        <div id="resultado"></div>
       </div>
     </main>
 
