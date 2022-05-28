@@ -1,4 +1,4 @@
-# Churrascômetro!
+# Churrascômetro
 
 Projeto desenvolvido para treinar habilidades de JavaScript Intermediário (segundo o curso Programador BR - Igor de Oliveira)
 
